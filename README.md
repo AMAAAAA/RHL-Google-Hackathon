@@ -5,4 +5,4 @@ In the one-week Hackthon co-hosted by RHL MBAN program and Google Cloud, Hongyi 
 We linked Goole big qurey with looker studio. Finding trend and insights by playing around with the dashboard, doing hypothesis tests and machine learning analysis using Google Colab. All the find-outs are presented on the PPT along with suggestions.
 
 
-(The zip file of PowerPoint is the final report, all codes are in jupyter file but not well structured)
+(The pptx file is the final report, all codes are in jupyter file but not well structured)
