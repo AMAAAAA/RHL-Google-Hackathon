@@ -1,5 +1,5 @@
-# RHL-Google-Hackthon
-In the one-week Hackthon co-hosted by RHL MBAN program and Google Cloud, Hongyi Hu, Kai Li, Yingke Liang and me took the challenge of making a NYPD Motor Vehicle Collisions Dashboard.
+# RHL-Google-Hackathon
+In the one-week Hackathon co-hosted by RHL MBAN program and Google Cloud, Hongyi Hu, Kai Li, Yingke Liang and me took the challenge of making a NYPD Motor Vehicle Collisions Dashboard.
 
 
 We linked Goole big qurey with looker studio. Finding trend and insights by playing around with the dashboard, doing hypothesis tests and machine learning analysis using Google Colab. All the find-outs are presented on the PPT along with suggestions.
